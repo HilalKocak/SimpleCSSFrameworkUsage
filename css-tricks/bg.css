@@ -6,7 +6,7 @@
   min-height: 500px;
   text-align: center;
   background-image: 
-                    url('img/dog.jpg');
+                    url('../img/dog.jpg');
   /* filter: blur(8px); */
 
   background-size: cover;
